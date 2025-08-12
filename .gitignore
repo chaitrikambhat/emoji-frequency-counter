@@ -1,8 +1,0 @@
-# Ignore virtual environments
-.venv/
-.env/
-.envrc/
-.pyenv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
