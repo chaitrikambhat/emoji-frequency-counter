@@ -83,7 +83,10 @@ Check `requirements.txt` for the full list.
 
 ---
 
-## Contact
+## 🙋‍♀️ About Me
 
-Created by Chaitrika Mohan Bhat.   
+Chaitrika Mohan Bhat.   
 Feel free to reach out!
+
+- [Email](chaitrikambhat@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/chaitrika-m-bhat/)
